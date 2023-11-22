@@ -2,32 +2,32 @@
 This is a simple Tkinter app that uses the COVID19India.org: https://www.covid19india.org/ API to display the latest COVID-19 cases in cities across India.
 
 The app allows you to:
-
 View total confirmed cases, recovered cases, and deceased cases for each city.
 Search for a specific city and get its latest COVID-19 data.
 Refresh the data to get the most recent information.
+
+<br>
 Features:
+<li>Simple and intuitive UI built with Tkinter.</li>
+<li>Data automatically fetches from the COVID19India.org API: https://api.covid19india.org/</li>
+<li>Search functionality for finding specific cities.</li>
+<li>Data refresh option for staying up-to-date.</li>
 
-Simple and intuitive UI built with Tkinter.
-Data automatically fetches from the COVID19India.org API: https://api.covid19india.org/data.json.
-Search functionality for finding specific cities.
-Data refresh option for staying up-to-date.
 Technology:
+<li>Python</li>
+<li>Tkinter</li>
+<br>
 
-Python
-Tkinter
 Installation:
-
-Clone this repository.
-Install the required dependencies:
+<li>Clone this repository.</li>
+<li>Install the required dependencies:</li><br>
 pip install -r requirements.txt
-Run the Python script:
+<li>Run the Python script:</li>
 python main.py
-Start exploring!
-Disclaimer:
+<li>Start exploring!</li>
 
-This app is for informational purposes only and does not provide any medical advice.
+Disclaimer:
+<li>This app is for informational purposes only and does not provide any medical advice.</li>
 
 Contributing:
-
-Pull requests are welcome! If you find any bugs or have any suggestions, please feel free to create an issue or submit a pull request.
+<li>Pull requests are welcome! If you find any bugs or have any suggestions, please feel free to create an issue or submit a pull request.</li>

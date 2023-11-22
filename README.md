@@ -17,8 +17,8 @@ Features:
 Technology:
 <li>Python</li>
 <li>Tkinter</li>
-<br>
 
+<br>
 Installation:
 <li>Clone this repository.</li>
 <li>Install the required dependencies:</li>

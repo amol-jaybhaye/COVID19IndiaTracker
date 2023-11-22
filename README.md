@@ -13,6 +13,7 @@ Features:
 <li>Search functionality for finding specific cities.</li>
 <li>Data refresh option for staying up-to-date.</li>
 
+<br>
 Technology:
 <li>Python</li>
 <li>Tkinter</li>
@@ -20,14 +21,14 @@ Technology:
 
 Installation:
 <li>Clone this repository.</li>
-<li>Install the required dependencies:</li><br>
+<li>Install the required dependencies:</li>
 pip install -r requirements.txt
 <li>Run the Python script:</li>
 python main.py
 <li>Start exploring!</li>
-
+<br>
 Disclaimer:
 <li>This app is for informational purposes only and does not provide any medical advice.</li>
-
+<br>
 Contributing:
 <li>Pull requests are welcome! If you find any bugs or have any suggestions, please feel free to create an issue or submit a pull request.</li>
